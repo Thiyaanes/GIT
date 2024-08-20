@@ -2,3 +2,4 @@ create
 add-git add name
 git commit -m"name"
 git push origin main
+after edit to get  git pull
